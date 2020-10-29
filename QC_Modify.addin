@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Modify</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Modify.dll</Assembly>
+		<ClientId>4be7542e-9573-4af7-a39c-27b9abe7fa33</ClientId>
+		<FullClassName>QC_Modify.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+  <!--<AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Container</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Container.dll</Assembly>
+    <ClientId>dabd6bc4-fdef-4d6c-b941-4cb1c4a0e493</ClientId>
+    <FullClassName>QC_Rebar_Container.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Group</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Group.dll</Assembly>
+    <ClientId>3ada9201-8702-413e-8168-6cb06cd9168a</ClientId>
+    <FullClassName>QC_Rebar_Group.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_MatchRebar</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_MatchRebar.dll</Assembly>
+    <ClientId>e03aba7d-2a94-4fa4-beec-d5c78e747f0a</ClientId>
+    <FullClassName>QC_Rebar_MatchRebar.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_RebarLock</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_RebarLock.dll</Assembly>
+    <ClientId>f60f1c6e-eb07-4dc9-a94b-bc5363a99f84</ClientId>
+    <FullClassName>QC_Rebar_RebarLock.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Stagger</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Stagger.dll</Assembly>
+    <ClientId>0fe9443e-ef26-4b7a-8342-ca5ad0bfd7db</ClientId>
+    <FullClassName>QC_Rebar_Stagger.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Solid</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Solid.dll</Assembly>
+    <ClientId>2e6eb449-834d-4db1-9296-3004bd147bef</ClientId>
+    <FullClassName>QC_Rebar_Solid.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Visibility</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Visibility.dll</Assembly>
+    <ClientId>c56d8efd-55a1-4892-967e-a9a16e8f4f15</ClientId>
+    <FullClassName>QC_Rebar_Visibility.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Split</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Split.dll</Assembly>
+    <ClientId>ca06ec4b-e268-4d50-ad5a-2271aaea70b2</ClientId>
+    <FullClassName>QC_Rebar_Split.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Extend</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Rebar_Extend.dll</Assembly>
+    <ClientId>09285af6-4dbd-4d02-be00-a1737249f39b</ClientId>
+    <FullClassName>QC_Rebar_Extend.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>-->
+</RevitAddIns>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Presentation</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Presentation.dll</Assembly>
+		<ClientId>ee6f840a-2241-4f51-b379-4c74c29d8e70</ClientId>
+		<FullClassName>QC_Presentation.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+  <!--<AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_TagColor</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Rebar_TagColor.dll</Assembly>
+    <ClientId>85708925-7250-40a3-a073-3f6d0f7c0965</ClientId>
+    <FullClassName>QC_Rebar_TagColor.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_HideAndTag</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Rebar_HideAndTag.dll</Assembly>
+    <ClientId>58ef95b4-0cf2-455a-9456-639b2f09038c</ClientId>
+    <FullClassName>QC_Rebar_HideAndTag.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_SheetFilter</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Rebar_SheetFilter.dll</Assembly>
+    <ClientId>004f34d3-1c43-4396-85a0-d515924c26d1</ClientId>
+    <FullClassName>QC_Rebar_SheetFilter.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>-->
+  <!--<AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_InsertSchedule</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Rebar_InsertSchedule.dll</Assembly>
+    <ClientId>084eb8bd-2cd9-4c96-9e2c-41e7329e5944</ClientId>
+    <FullClassName>QC_Rebar_InsertSchedule.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>-->
+  <!--<AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_CreateSchedule</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Rebar_CreateSchedule.dll</Assembly>
+    <ClientId>fcc8d85d-1836-4957-93fa-30482c438146</ClientId>
+    <FullClassName>QC_Rebar_CreateSchedule.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>-->
+</RevitAddIns>

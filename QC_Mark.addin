@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Mark</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Mark\QC_Mark.dll</Assembly>
+		<ClientId>1364b704-2395-4e0f-a496-14bc13402b8e</ClientId>
+		<FullClassName>QC_Mark.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+  <!--<AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Assign</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Mark\QC_Rebar_Assign.dll</Assembly>
+    <ClientId>f33aa42e-6ba5-4b82-82fd-458ffdd7effd</ClientId>
+    <FullClassName>QC_Rebar_Assign.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Combine</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Mark\QC_Rebar_Combine.dll</Assembly>
+    <ClientId>5aaa54ac-590f-4e26-bb41-4eeb6b90e973</ClientId>
+    <FullClassName>QC_Rebar_Combine.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Mark</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Mark\QC_Rebar_Mark.dll</Assembly>
+    <ClientId>a9e8dc34-e1e8-4fb5-8831-0dd292bd6ebb</ClientId>
+    <FullClassName>QC_Rebar_Mark.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Aplicacion QC_Rebar_Parameter</Name>
+    <Assembly>QCReinforcement2.0.0.0\QC_Mark\QC_Rebar_Parameter.dll</Assembly>
+    <ClientId>994d9cdd-e6fb-4c3c-aeab-093be930ac72</ClientId>
+    <FullClassName>QC_Rebar_Parameter.QCApp</FullClassName>
+    <VendorId>QC Ingenieros</VendorId>
+  </AddIn>-->
+</RevitAddIns>

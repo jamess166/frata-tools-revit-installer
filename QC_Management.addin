@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Management</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Management\QC_Management.dll</Assembly>
+		<ClientId>cf87e7d3-abf2-4809-be72-98edb3e78d1b</ClientId>
+		<FullClassName>QC_Management.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+</RevitAddIns>
