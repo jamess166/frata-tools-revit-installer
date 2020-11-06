@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Aplicacion QCGeneral</Name>
+		<Assembly>QCGeneral2.0.0.0\QCGeneral.dll</Assembly>
+		<ClientId>a6142e9a-0e4b-4646-b380-34d54e06773e</ClientId>
+		<FullClassName>QCGeneral.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+</RevitAddIns>
