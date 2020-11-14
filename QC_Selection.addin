@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>Aplicacion QC_Selection</Name>
-		<Assembly>QCReinforcement2.0.0.0\QC_Selection\QC_Selection.dll</Assembly>
+		<Assembly>QCReinforcement2.0.0.0\QC_Selection.dll</Assembly>
 		<ClientId>530f31fb-9100-404b-aadc-3049a62e3d2e</ClientId>
 		<FullClassName>QC_Selection.QCApp</FullClassName>
 		<VendorId>QC Ingenieros</VendorId>

@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>Aplicacion QC_Modify</Name>
-		<Assembly>QCReinforcement2.0.0.0\QC_Modify\QC_Modify.dll</Assembly>
+		<Assembly>QCReinforcement2.0.0.0\QC_Modify.dll</Assembly>
 		<ClientId>4be7542e-9573-4af7-a39c-27b9abe7fa33</ClientId>
 		<FullClassName>QC_Modify.QCApp</FullClassName>
 		<VendorId>QC Ingenieros</VendorId>

@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>Aplicacion QC_Presentation</Name>
-		<Assembly>QCReinforcement2.0.0.0\QC_Presentation\QC_Presentation.dll</Assembly>
+		<Assembly>QCReinforcement2.0.0.0\QC_Presentation.dll</Assembly>
 		<ClientId>ee6f840a-2241-4f51-b379-4c74c29d8e70</ClientId>
 		<FullClassName>QC_Presentation.QCApp</FullClassName>
 		<VendorId>QC Ingenieros</VendorId>

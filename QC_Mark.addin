@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>Aplicacion QC_Mark</Name>
-		<Assembly>QCReinforcement2.0.0.0\QC_Mark\QC_Mark.dll</Assembly>
+		<Assembly>QCReinforcement2.0.0.0\QC_Mark.dll</Assembly>
 		<ClientId>1364b704-2395-4e0f-a496-14bc13402b8e</ClientId>
 		<FullClassName>QC_Mark.QCApp</FullClassName>
 		<VendorId>QC Ingenieros</VendorId>

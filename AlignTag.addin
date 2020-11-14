@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application AlignTag</Name>
+    <Assembly>QCReinforcement2.0.0.0\AlignTag.dll</Assembly>
+    <FullClassName>AlignTag.App</FullClassName>
+    <ClientId>5a9e8c41-09d6-4cdf-8556-38f8119137a4</ClientId>
+    <VendorId>BM42</VendorId>
+    <VendorDescription>QC Ingenieros, http://www.qcingenieros.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
