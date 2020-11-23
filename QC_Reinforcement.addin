@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    	<AddIn Type="Application">
+		<Name>Aplicacion QC_Mark</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Mark.dll</Assembly>
+		<ClientId>1364b704-2395-4e0f-a496-14bc13402b8e</ClientId>
+		<FullClassName>QC_Mark.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Modify</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Modify.dll</Assembly>
+		<ClientId>4be7542e-9573-4af7-a39c-27b9abe7fa33</ClientId>
+		<FullClassName>QC_Modify.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Properties</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Properties.dll</Assembly>
+		<ClientId>5e53c134-f3a8-4674-8299-64480df1391f</ClientId>
+		<FullClassName>QC_Properties.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Presentation</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Presentation.dll</Assembly>
+		<ClientId>ee6f840a-2241-4f51-b379-4c74c29d8e70</ClientId>
+		<FullClassName>QC_Presentation.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Selection</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Selection.dll</Assembly>
+		<ClientId>530f31fb-9100-404b-aadc-3049a62e3d2e</ClientId>
+		<FullClassName>QC_Selection.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Management</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Management.dll</Assembly>
+		<ClientId>cf87e7d3-abf2-4809-be72-98edb3e78d1b</ClientId>
+		<FullClassName>QC_Management.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QCGeneral</Name>
+		<Assembly>QCReinforcement2.0.0.0\QCGeneral.dll</Assembly>
+		<ClientId>a6142e9a-0e4b-4646-b380-34d54e06773e</ClientId>
+		<FullClassName>QCGeneral.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+        <AddIn Type="Application">
+        	<Name>Application AlignTag</Name>
+        	<Assembly>QCReinforcement2.0.0.0\AlignTag.dll</Assembly>
+        	<FullClassName>AlignTag.App</FullClassName>
+        	<ClientId>5a9e8c41-09d6-4cdf-8556-38f8119137a4</ClientId>
+        	<VendorId>BM42</VendorId>
+        	<VendorDescription>QC Ingenieros, http://www.qcingenieros.com</VendorDescription>
+    	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion QC_Updaters</Name>
+		<Assembly>QCReinforcement2.0.0.0\QC_Updaters.dll</Assembly>
+		<ClientId>ce09e0e9-e3b9-43a1-8315-af8fec2039fc</ClientId>
+		<FullClassName>QC_Updaters.QCApp</FullClassName>
+		<VendorId>QC Ingenieros</VendorId>
+	</AddIn>
+</RevitAddIns>
+        
