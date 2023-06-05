@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    	<AddIn Type="Application">
+		<Name>Aplicacion Mark</Name>
+		<Assembly>FrataStructure\Mark.dll</Assembly>
+		<ClientId>1364b704-2395-4e0f-a496-14bc13402b8e</ClientId>
+		<FullClassName>Mark.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion Modify</Name>
+		<Assembly>FrataStructure\Modify.dll</Assembly>
+		<ClientId>4be7542e-9573-4af7-a39c-27b9abe7fa33</ClientId>
+		<FullClassName>Modify.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion Properties</Name>
+		<Assembly>FrataStructure\Properties.dll</Assembly>
+		<ClientId>5e53c134-f3a8-4674-8299-64480df1391f</ClientId>
+		<FullClassName>Properties.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion Presentation</Name>
+		<Assembly>FrataStructure\Presentation.dll</Assembly>
+		<ClientId>ee6f840a-2241-4f51-b379-4c74c29d8e70</ClientId>
+		<FullClassName>Presentation.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion Selection</Name>
+		<Assembly>FrataStructure\Selection.dll</Assembly>
+		<ClientId>530f31fb-9100-404b-aadc-3049a62e3d2e</ClientId>
+		<FullClassName>RebarSelection.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion Management</Name>
+		<Assembly>FrataStructure\Management.dll</Assembly>
+		<ClientId>cf87e7d3-abf2-4809-be72-98edb3e78d1b</ClientId>
+		<FullClassName>Management.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>Aplicacion General</Name>
+		<Assembly>FrataStructure\General.dll</Assembly>
+		<ClientId>a6142e9a-0e4b-4646-b380-34d54e06773e</ClientId>
+		<FullClassName>General.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+	<!-- <AddIn Type="Application">
+		<Name>Application AlignTag</Name>
+		<Assembly>FrataStructure\AlignTag.dll</Assembly>
+		<FullClassName>AlignTag.App</FullClassName>
+		<ClientId>5a9e8c41-09d6-4cdf-8556-38f8119137a4</ClientId>
+		<VendorId>BM42</VendorId>
+		<VendorDescription>Frata Ingenieros, http://www.frataingenieros.com</VendorDescription>
+	</AddIn> -->
+	<AddIn Type="Application">
+		<Name>Aplicacion Updaters</Name>
+		<Assembly>FrataStructure\Updaters.dll</Assembly>
+		<ClientId>ce09e0e9-e3b9-43a1-8315-af8fec2039fc</ClientId>
+		<FullClassName>Updaters.FrataApp</FullClassName>
+		<VendorId>Frata Ingenieros</VendorId>
+	</AddIn>
+</RevitAddIns>
